@@ -1,6 +1,6 @@
 <?php
 
-$lang['account_details'] = 'Account Details';
+$lang['account_details'] = 'Hesap Detayları';
 $lang['access_denied'] = 'Module Access Denied! Contact admin for assistance';
 $lang['activities'] = 'Activities';
 $lang['activity'] = 'Activity';
