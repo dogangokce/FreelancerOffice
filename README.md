@@ -1,25 +1,24 @@
-Freelancer Office Project Management System
+Freelancer Office Proje Yönetim Sistemi
 --------------------
 
-Web based Project Management tool for freelancers
+Serbest çalışanlar için Web tabanlı Proje Yönetimi aracı
 
-![alt text](http://office.defterde.com/resource/images/_item_preview.png "Freelancer Office Project Manager")
+![alt text](http://office.defterde.com/resource/images/_item_preview.png "Freelancer Office Proje Yönetimi")
 
-Share your translations
+Freelancer Office – Proje Yönetim Sistemi
 --------------------
-Help translate it to your own language
+Freelancer Office, projeleri yönetmek görevleri ayarlamak ve işinizi izlemek için basit ve kullanışlı web tabanlı proje yönetimi ve gerçek zamanlı işiniz izleme aracıdır.
 
-**View the demo here http://envfolite.com and login using admin/admin**
+**Canlı önizleme için  http://office.defterde.com giriş yapmak için Doğan GOGCE kullanıcı adı talep edin**
 
-Using shared language files
+Paylaşılan dil dosyalarını kullanma
 --------------------
-Download the files and extract.
+Dosyaları indirin ve zip arşivinden çıkarın.
 
-Paste each language folder here application/language
+Ftp hesabınızı kullanarak  application/language klasörüne atın.
 
-Add your language to database table fx_languages
+Veritabanı tablo fx_languages için dilinizi eklemeyi unutmayın. Yönetim Panelinden Sistem Ayarlarına gelip Türkçe Dil Seçeneğini aktifleştirin.
 
-To Translate it
+Tercümanlar
 --------------------
-Language files are grouped to folders. 
-Choose a language and edit fx_lang.php file (MAIN FILE).
+English Russian Azerbaijani ve Turkish dillerinde Doğan GÖGCE ve Elvira Sadıxova
