@@ -3,7 +3,7 @@ Freelancer Office Project Management System
 
 Web based Project Management tool for freelancers
 
-![alt text](https://image-cc.s3.envato.com/files/143295670/_item_preview.png "Freelancer Office Project Manager")
+![alt text](http://office.defterde.com/resource/images/_item_preview.png "Freelancer Office Project Manager")
 
 Share your translations
 --------------------
