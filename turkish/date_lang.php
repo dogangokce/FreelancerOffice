@@ -1,32 +1,32 @@
 <?php
 
-$lang['date_year'] = "Year";
-$lang['date_years'] = "Years";
-$lang['date_month'] = "Month";
-$lang['date_months'] = "Months";
-$lang['date_week'] = "Week";
-$lang['date_weeks'] = "Weeks";
-$lang['date_day'] = "Day";
-$lang['date_days'] = "Days";
-$lang['date_hour'] = "Hour";
-$lang['date_hours'] = "Hours";
-$lang['date_minute'] = "Minute";
-$lang['date_minutes'] = "Minutes";
-$lang['date_second'] = "Second";
-$lang['date_seconds'] = "Seconds";
+$lang['date_year'] = "Yıl";
+$lang['date_years'] = "Yıllar";
+$lang['date_month'] = "Ay";
+$lang['date_months'] = "Aylar";
+$lang['date_week'] = "Hafta";
+$lang['date_weeks'] = "Haftalar";
+$lang['date_day'] = "Gün";
+$lang['date_days'] = "Günler";
+$lang['date_hour'] = "Saat";
+$lang['date_hours'] = "Saatler";
+$lang['date_minute'] = "Dakika";
+$lang['date_minutes'] = "Dakikalar";
+$lang['date_second'] = "Saniye";
+$lang['date_seconds'] = "Saniyeler";
 
-$lang['UM12']	= '(UTC -12:00) Baker/Howland Island';
-$lang['UM11']	= '(UTC -11:00) Samoa Time Zone, Niue';
-$lang['UM10']	= '(UTC -10:00) Hawaii-Aleutian Standard Time, Cook Islands, Tahiti';
-$lang['UM95']	= '(UTC -9:30) Marquesas Islands';
-$lang['UM9']	= '(UTC -9:00) Alaska Standard Time, Gambier Islands';
-$lang['UM8']	= '(UTC -8:00) Pacific Standard Time, Clipperton Island';
-$lang['UM7']	= '(UTC -7:00) Mountain Standard Time';
-$lang['UM6']	= '(UTC -6:00) Central Standard Time';
-$lang['UM5']	= '(UTC -5:00) Eastern Standard Time, Western Caribbean Standard Time';
-$lang['UM45']	= '(UTC -4:30) Venezuelan Standard Time';
-$lang['UM4']	= '(UTC -4:00) Atlantic Standard Time, Eastern Caribbean Standard Time';
-$lang['UM35']	= '(UTC -3:30) Newfoundland Standard Time';
+$lang['UM12']	= '(UTC -12:00) Baker / Howland Adası';
+$lang['UM11']	= '(UTC -11:00) Samoa Saat Dilimi, Niue';
+$lang['UM10']	= '(UTC -10:00) Hawaii-Aleutian Standart Zamanı, Cook Adaları, Tahiti';
+$lang['UM95']	= '(UTC -9:30) Markiz Adaları';
+$lang['UM9']	= '(UTC -9:00) Alaska Standart Zamanı, Gambier Adaları';
+$lang['UM8']	= '(UTC -8:00) Pasifik Standart Saati, Clipperton Adası';
+$lang['UM7']	= '(UTC -7:00) Dağ Standart Zamanı';
+$lang['UM6']	= '(UTC -6:00) Merkez Standart Saati';
+$lang['UM5']	= '(UTC -5:00) Doğu Standart Saati, Batı Karayipler Standart Zamanı';
+$lang['UM45']	= '(UTC -4:30) Venezüella Standart Saati';
+$lang['UM4']	= '(UTC -4:00) Atlantik Standart Saati, Doğu Karayipler Standart Zamanı';
+$lang['UM35']	= '(UTC -3:30)  Newfoundland Standart Saati';
 $lang['UM3']	= '(UTC -3:00) Argentina, Brazil, French Guiana, Uruguay';
 $lang['UM2']	= '(UTC -2:00) South Georgia/South Sandwich Islands';
 $lang['UM1']	= '(UTC -1:00) Azores, Cape Verde Islands';
@@ -58,4 +58,4 @@ $lang['UP14']	= '(UTC +14:00) Line Islands';
 
 
 /* End of file date_lang.php */
-/* Location: ./system/language/english/date_lang.php */
+/* Location: ./system/language/turkish/date_lang.php */
