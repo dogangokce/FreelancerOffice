@@ -1,40 +1,40 @@
 <?php
 
 // Errors
-$lang['auth_incorrect_password'] = 'Incorrect password';
-$lang['auth_incorrect_login'] = 'Incorrect login';
-$lang['auth_incorrect_email_or_username'] = 'Login or email doesn\'t exist';
-$lang['auth_email_in_use'] = 'Email is already used by another user. Please choose another email.';
-$lang['auth_username_in_use'] = 'Username already exists. Please choose another username.';
-$lang['auth_current_email'] = 'This is your current email';
-$lang['auth_incorrect_captcha'] = 'Your confirmation code does not match the one in the image.';
-$lang['auth_captcha_expired'] = 'Your confirmation code has expired. Please try again.';
+$lang['auth_incorrect_password'] = 'Hatalı şifre';
+$lang['auth_incorrect_login'] = 'Hatalı giriş';
+$lang['auth_incorrect_email_or_username'] = 'Giriş veya e-posta yok';
+$lang['auth_email_in_use'] = 'E-posta zaten başka bir kullanıcı tarafından kullanılıyor. Başka bir e-posta seçiniz.';
+$lang['auth_username_in_use'] = 'Kullanıcı adı zaten var. Başka bir kullanıcı adı seçiniz.';
+$lang['auth_current_email'] = 'Bu e-posta geçerli oldu';
+$lang['auth_incorrect_captcha'] = 'Onay kodu görüntüde uyuşmuyor.';
+$lang['auth_captcha_expired'] = 'Onay kodu süresi doldu. Lütfen tekrar deneyin.';
 
 // Notifications
-$lang['auth_message_logged_out'] = 'You have been successfully logged out.';
-$lang['auth_message_registration_disabled'] = 'Registration is disabled.';
-$lang['auth_message_registration_completed_1'] = 'You have successfully registered. Check your email address to activate your account.';
-$lang['auth_message_registration_completed_2'] = 'You have successfully registered.';
-$lang['auth_message_activation_email_sent'] = 'A new activation email has been sent to %s. Follow the instructions in the email to activate your account.';
-$lang['auth_message_activation_completed'] = 'Your account has been successfully activated.';
-$lang['auth_message_activation_failed'] = 'The activation code you entered is incorrect or expired.';
-$lang['auth_message_password_changed'] = 'Your password has been successfully changed.';
-$lang['auth_message_new_password_sent'] = 'An email with instructions for creating a new password has been sent to you.';
-$lang['auth_message_new_password_activated'] = 'You have successfully reset your password';
-$lang['auth_message_new_password_failed'] = 'Your activation key is incorrect or expired. Please check your email again and follow the instructions.';
-$lang['auth_message_new_email_sent'] = 'A confirmation email has been sent to %s. Follow the instructions in the email to complete this change of email address.';
-$lang['auth_message_new_email_activated'] = 'You have successfully changed your email';
-$lang['auth_message_new_email_failed'] = 'Your activation key is incorrect or expired. Please check your email again and follow the instructions.';
-$lang['auth_message_banned'] = 'You are banned.';
-$lang['auth_message_unregistered'] = 'Your account has been deleted...';
+$lang['auth_message_logged_out'] = 'Başarıyla çıkış yaptınız.';
+$lang['auth_message_registration_disabled'] = 'Üyelik devredışı bırakılmıştır.';
+$lang['auth_message_registration_completed_1'] = 'Başarıyla kayıt yaptırdınız. Hesabınızı etkinleştirmek için e-posta adresinizi kontrol edin.';
+$lang['auth_message_registration_completed_2'] = 'Başarıyla kayıt yaptırdınız.';
+$lang['auth_message_activation_email_sent'] = 'Yeni Aktivasyon e-postası %s gönderildi. Hesabınızı etkinleştirmek için e-postadaki talimatları uygulayın.';
+$lang['auth_message_activation_completed'] = 'Hesabınız başarıyla aktive edildi.';
+$lang['auth_message_activation_failed'] = 'Girdiğiniz aktivasyon kodu yanlış veya süresi dolmuş.';
+$lang['auth_message_password_changed'] = 'Parolanız başarıyla değiştirildi.';
+$lang['auth_message_new_password_sent'] = 'Yeni bir şifre oluşturmak için talimatlar e-postanıza gönderildi.';
+$lang['auth_message_new_password_activated'] = 'Şifreniz başarıyla sıfırlandı.';
+$lang['auth_message_new_password_failed'] = 'Etkinleştirme anahtarınız hatalı veya süresi dolmuş. E-postanızı tekrar kontrol edin ve talimatları takip edin.';
+$lang['auth_message_new_email_sent'] = 'Bir onay e-postası %s gönderildi. E-postanızdaki talimatları uygulayın e-posta adresi değişikliğini tamamlayın.';
+$lang['auth_message_new_email_activated'] = 'Başarıyla e-postanız değişti.';
+$lang['auth_message_new_email_failed'] = 'Etkinleştirme anahtarınız hatalı veya süresi dolmuş. E-postanızı tekrar kontrol edin ve talimatları takip edin.';
+$lang['auth_message_banned'] = 'Yasaklandınız.';
+$lang['auth_message_unregistered'] = 'Hesabınız silindi...';
 
 // Email subjects
-$lang['auth_subject_welcome'] = 'Welcome to %s!';
-$lang['auth_subject_activate'] = 'Welcome to %s!';
-$lang['auth_subject_forgot_password'] = 'Forgot your password on %s?';
-$lang['auth_subject_reset_password'] = 'Your new password on %s';
-$lang['auth_subject_change_email'] = 'Your new email address on %s';
+$lang['auth_subject_welcome'] = 'Hoşgeldin %s!';
+$lang['auth_subject_activate'] = 'Hoşgeldin  %s!';
+$lang['auth_subject_forgot_password'] = 'Şifrenizi mi unuttunuz %s?';
+$lang['auth_subject_reset_password'] = '%s üzerinden yeni şifreniz';
+$lang['auth_subject_change_email'] = '%s üzerinden yeni e-posta adresiniz';
 
 
 /* End of file tank_auth_lang.php */
-/* Location: ./application/language/english/tank_auth_lang.php */
+/* Location: ./application/language/turkish/tank_auth_lang.php */
