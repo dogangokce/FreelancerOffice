@@ -1,18 +1,19 @@
 <?php
 
-$lang['ftp_no_connection']			= "Unable to locate a valid connection ID. Please make sure you are connected before peforming any file routines.";
-$lang['ftp_unable_to_connect']		= "Unable to connect to your FTP server using the supplied hostname.";
-$lang['ftp_unable_to_login']		= "Unable to login to your FTP server. Please check your username and password.";
-$lang['ftp_unable_to_makdir']		= "Unable to create the directory you have specified.";
-$lang['ftp_unable_to_changedir']	= "Unable to change directories.";
-$lang['ftp_unable_to_chmod']		= "Unable to set file permissions. Please check your path. Note: This feature is only available in PHP 5 or higher.";
-$lang['ftp_unable_to_upload']		= "Unable to upload the specified file. Please check your path.";
-$lang['ftp_unable_to_download']		= "Unable to download the specified file. Please check your path.";
-$lang['ftp_no_source_file']			= "Unable to locate the source file. Please check your path.";
-$lang['ftp_unable_to_rename']		= "Unable to rename the file.";
-$lang['ftp_unable_to_delete']		= "Unable to delete the file.";
-$lang['ftp_unable_to_move']			= "Unable to move the file. Please make sure the destination directory exists.";
+$lang['ftp_unable_to_mkdir']		= 'Belirttiğiniz dizini oluşturulamadı.';
+$lang['ftp_no_connection'] = 'Hata: Geçerli bir bağlantı ID\'si bulunamadı. Lütfen herhangi bir dosya işlemi yapmadan önce bağlı olduğunuzdan emin olunuz.';
+$lang['ftp_unable_to_connect'] = 'Hata: FTP sunucusuyla belirtiğiniz sunucu adıyla bağlantı kurulamadı.';
+$lang['ftp_unable_to_login'] = 'Hata: FTP sunucusuna giriş yapılamadı. Lütfen kullanıcı adı ve parolanızı kontrol ediniz.';
+$lang['ftp_unable_to_makdir'] = 'Hata: Belirttiğiniz klasör oluşturulamadı.';
+$lang['ftp_unable_to_changedir'] = 'Hata: Klasör değiştirilemedi.';
+$lang['ftp_unable_to_chmod'] = 'Hata: Dosya izinleri değiştirilemedi. Lütfen dosya yolunu kontrol ediniz. Not: Bu özellik PHP 5 ve üst sürümlerinde geçerlidir.';
+$lang['ftp_unable_to_upload'] = 'Hata: Belirttiğiniz dosya yüklenemedi. Lütfen dosya yolunu kontrol ediniz.';
+$lang['ftp_unable_to_download'] = 'Hata: Belirttiğiniz dosya indirilemedi. Lütfen dosya yolunu kontrol ediniz.';
+$lang['ftp_no_source_file'] = 'Hata: Belirttiğiniz kaynak dosya bulunamadı. Lütfen dosya yolunu kontrol ediniz.';
+$lang['ftp_unable_to_rename'] = 'Hata: Dosya ismi değiştirilemedi.';
+$lang['ftp_unable_to_delete'] = 'Hata: Dosya silinemedi.';
+$lang['ftp_unable_to_move'] = 'Hata: Dosya taşınamadı. Lütfen hedef klasörün var olduğundan emin olunuz.';
 
 
 /* End of file ftp_lang.php */
-/* Location: ./system/language/english/ftp_lang.php */
+/* Location: ./system/language/turkish/ftp_lang.php */
