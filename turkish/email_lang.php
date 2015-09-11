@@ -1,24 +1,25 @@
 <?php
 
-$lang['email_must_be_array'] = "The email validation method must be passed an array.";
-$lang['email_invalid_address'] = "Invalid email address: %s";
-$lang['email_attachment_missing'] = "Unable to locate the following email attachment: %s";
-$lang['email_attachment_unreadable'] = "Unable to open this attachment: %s";
-$lang['email_no_recipients'] = "You must include recipients: To, Cc, or Bcc";
-$lang['email_send_failure_phpmail'] = "Unable to send email using PHP mail().  Your server might not be configured to send mail using this method.";
-$lang['email_send_failure_sendmail'] = "Unable to send email using PHP Sendmail.  Your server might not be configured to send mail using this method.";
-$lang['email_send_failure_smtp'] = "Unable to send email using PHP SMTP.  Your server might not be configured to send mail using this method.";
-$lang['email_sent'] = "Your message has been successfully sent using the following protocol: %s";
-$lang['email_no_socket'] = "Unable to open a socket to Sendmail. Please check settings.";
-$lang['email_no_hostname'] = "You did not specify a SMTP hostname.";
-$lang['email_smtp_error'] = "The following SMTP error was encountered: %s";
-$lang['email_no_smtp_unpw'] = "Error: You must assign a SMTP username and password.";
-$lang['email_failed_smtp_login'] = "Failed to send AUTH LOGIN command. Error: %s";
-$lang['email_smtp_auth_un'] = "Failed to authenticate username. Error: %s";
-$lang['email_smtp_auth_pw'] = "Failed to authenticate password. Error: %s";
-$lang['email_smtp_data_failure'] = "Unable to send data: %s";
-$lang['email_exit_status'] = "Exit status code: %s";
+$lang['email_must_be_array'] = 'Eposta doğrulama kuralı dizi olarak gönderilmelidir.';
+$lang['email_invalid_address'] = 'Hatalı eposta adresi: %s';
+$lang['email_no_from'] = 'Header "Kimden" Hiçbir ile posta göndermek olamaz';
+$lang['email_attachment_missing'] = 'Eposta eki bulunamadı: %s';
+$lang['email_attachment_unreadable'] = 'Unable to open this attachment: %s';
+$lang['email_no_recipients'] = 'Gönderilecek eposta adresi bulunamadı. Eposta adreslerini şu alanlara eklemeniz gerekmektedir: To, Cc, veya Bcc';
+$lang['email_send_failure_phpmail'] = 'PHP mail() methodunu kullanarak eposta gönderilemedi. Sunucunuz bu methodu kullanarak eposta gönderecek şekilde konfigüre edilmemiş olabilir.';
+$lang['email_send_failure_sendmail'] = 'PHP Sendmail methodunu kullanarak eposta gönderilemedi. Sunucunuz bu methodu kullanarak eposta gönderecek şekilde konfigüre edilmemiş olabilir.';
+$lang['email_send_failure_smtp'] = 'PHP SMTP methodunu kullanarak eposta gönderilemedi. Sunucunuz bu methodu kullanarak eposta gönderecek şekilde konfigüre edilmemiş olabilir.';
+$lang['email_sent'] = 'Mesajınız, %s protokolü kullanılarak başarılı bir şekilde gönderildi.';
+$lang['email_no_socket'] = 'Sendmail için socket açılamadı. Lütfen ayarları kontrol ediniz.';
+$lang['email_no_hostname'] = 'SMTP sunucu bilgisi girmediniz.';
+$lang['email_smtp_error'] = 'SMTP hatası oluştu: %s';
+$lang['email_no_smtp_unpw'] = 'Hata: SMTP kullanıcı adı ve parolası girmeniz gerekmektedir.';
+$lang['email_failed_smtp_login'] = 'AUTH LOGIN komutu gönderilirken hata oluştu. Hata: %s';
+$lang['email_smtp_auth_un'] = 'Kullanıcı adı doğrulanamadı. Hata: %s';
+$lang['email_smtp_auth_pw'] = 'Parola doğrulanamadı. Hata: %s';
+$lang['email_smtp_data_failure'] = 'Veri gönderilemedi. Hata: %s';
+$lang['email_exit_status'] = 'Çıkış durum kodu: %s';
 
 
 /* End of file email_lang.php */
-/* Location: ./system/language/english/email_lang.php */
+/* Location: ./system/language/turkish/email_lang.php */
