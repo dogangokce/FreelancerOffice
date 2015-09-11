@@ -1,22 +1,22 @@
 <?php
 
-$lang['upload_userfile_not_set'] = "Unable to find a post variable called userfile.";
-$lang['upload_file_exceeds_limit'] = "The uploaded file exceeds the maximum allowed size in your PHP configuration file.";
-$lang['upload_file_exceeds_form_limit'] = "The uploaded file exceeds the maximum size allowed by the submission form.";
-$lang['upload_file_partial'] = "The file was only partially uploaded.";
-$lang['upload_no_temp_directory'] = "The temporary folder is missing.";
-$lang['upload_unable_to_write_file'] = "The file could not be written to disk.";
-$lang['upload_stopped_by_extension'] = "The file upload was stopped by extension.";
-$lang['upload_no_file_selected'] = "You did not select a file to upload.";
-$lang['upload_invalid_filetype'] = "The filetype you are attempting to upload is not allowed.";
-$lang['upload_invalid_filesize'] = "The file you are attempting to upload is larger than the permitted size.";
-$lang['upload_invalid_dimensions'] = "The image you are attempting to upload exceedes the maximum height or width.";
-$lang['upload_destination_error'] = "A problem was encountered while attempting to move the uploaded file to the final destination.";
-$lang['upload_no_filepath'] = "The upload path does not appear to be valid.";
-$lang['upload_no_file_types'] = "You have not specified any allowed file types.";
-$lang['upload_bad_filename'] = "The file name you submitted already exists on the server.";
-$lang['upload_not_writable'] = "The upload destination folder does not appear to be writable.";
+$lang['upload_userfile_not_set'] = 'userfile isimli bir post değişkeni bulunamadı.';
+$lang['upload_file_exceeds_limit'] = 'Yüklemeye çalıştığınız dosyanın boyutu PHP konfigürasyonundaki izin verilen yüklenebilecek maksimum dosya boyutunu aşıyor.';
+$lang['upload_file_exceeds_form_limit'] = 'Yüklemek istediğiniz dosya formda tanımlanmış limiti aşıyor.';
+$lang['upload_file_partial'] = 'Yüklemeye çalıştığınız dosyanın tamamı yüklenemedi.';
+$lang['upload_no_temp_directory'] = 'Geçici dosya dizini bulunamadı.';
+$lang['upload_unable_to_write_file'] = 'Dosya sabit diske yazılamadı.';
+$lang['upload_stopped_by_extension'] = 'Dosya yüklenmesi EXTENSION tarafından durduruldu.';
+$lang['upload_no_file_selected'] = 'Yüklemek için dosya seçmediniz.';
+$lang['upload_invalid_filetype'] = 'Seçtiğiniz dosya türünün yüklenmesine izin verilmiyor.';
+$lang['upload_invalid_filesize'] = 'Yüklemeye çalıştığınız dosyanın boyutu izin verilen dosya boyutunu aşıyor.';
+$lang['upload_invalid_dimensions'] = 'Yüklemeye çalıştığınız resim dosyasının eni ve boyu, izin verilen maksimum en ve boy uzunluklarını aşıyor.';
+$lang['upload_destination_error'] = 'Yüklediğiniz dosyayı kopyalanacağı klasöre taşırken bir hata oluştu.';
+$lang['upload_no_filepath'] = 'Yüklenilmek istenen dosya yolu geçersiz.';
+$lang['upload_no_file_types'] = 'İzin verilen dosya türlerini belirlemediniz.';
+$lang['upload_bad_filename'] = 'Yüklemeye çalıştığınız dosyayla aynı isme sahip bir dosya sunucuda zaten var.';
+$lang['upload_not_writable'] = 'Yüklemeye çalıştığınız klasöre yazma izniniz yok.';
 
 
 /* End of file upload_lang.php */
-/* Location: ./system/language/english/upload_lang.php */
+/* Location: ./system/language/turkish/upload_lang.php */
