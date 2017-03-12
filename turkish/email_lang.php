@@ -1,10 +1,9 @@
 <?php
-
 $lang['email_must_be_array'] = 'Eposta doğrulama kuralı dizi olarak gönderilmelidir.';
 $lang['email_invalid_address'] = 'Hatalı eposta adresi: %s';
-$lang['email_no_from'] = 'Header "Kimden" Hiçbir ile posta göndermek olamaz';
 $lang['email_attachment_missing'] = 'Eposta eki bulunamadı: %s';
-$lang['email_attachment_unreadable'] = 'Unable to open this attachment: %s';
+$lang['email_attachment_unreadable'] = 'Açılamayan ek var: %s';
+$lang['email_no_from'] = '"Kimden" başlığını olmadan posta gönderilemez';
 $lang['email_no_recipients'] = 'Gönderilecek eposta adresi bulunamadı. Eposta adreslerini şu alanlara eklemeniz gerekmektedir: To, Cc, veya Bcc';
 $lang['email_send_failure_phpmail'] = 'PHP mail() methodunu kullanarak eposta gönderilemedi. Sunucunuz bu methodu kullanarak eposta gönderecek şekilde konfigüre edilmemiş olabilir.';
 $lang['email_send_failure_sendmail'] = 'PHP Sendmail methodunu kullanarak eposta gönderilemedi. Sunucunuz bu methodu kullanarak eposta gönderecek şekilde konfigüre edilmemiş olabilir.';
@@ -22,4 +21,4 @@ $lang['email_exit_status'] = 'Çıkış durum kodu: %s';
 
 
 /* End of file email_lang.php */
-/* Location: ./system/language/turkish/email_lang.php */
+/* Location: ./application/language/turkish/email_lang.php */
